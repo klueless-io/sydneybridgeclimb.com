@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+cd /home/david/Desktop/sites-go/sydneybridgeclimb.com
+
+git submodule foreach git pull
