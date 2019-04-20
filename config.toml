@@ -21,7 +21,7 @@ disqusShortname     = ""
   sidebarAbout = [
     "Since 1998 <a href='https://www.bridgeclimb.com' target='bridgeclimb'>BridgeClimb</a> has established itself as an integral part of the Sydney scene",
     "Sydney Bridge Climb <a href='https://www.bridgeclimb.com/celebrities/' target='bridgeclimb'>Celebrities</a>.",
-    "Photo by <a href='https://www.pexels.com/photo/bridge-under-grey-cloudy-sky-during-nighttime-635632/' target='external'>David Dibert</a> from Pexels"
+    ""
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
