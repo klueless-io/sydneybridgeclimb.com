@@ -7,7 +7,7 @@ languageCode        = "en-au"
 title               = "Sydney Bridge Climb"
 theme               = "portfolio"
 googleAnalytics     = "UA-45288102-15"
-paginate            = 50
+paginate            = 24
 
 # Enable comments by entering your Disqus shortname
 disqusShortname     = ""
