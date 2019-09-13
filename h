@@ -2,6 +2,5 @@
         
         #      chmod +x h
         
-        # change with prose.io
-        
+        # change with prose
         hugo serve --port 1330
